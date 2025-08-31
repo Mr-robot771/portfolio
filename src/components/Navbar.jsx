@@ -13,7 +13,7 @@ const navItems = [
   {
     id: 3,
     title: "About me",
-    path: "/AboutmePage",
+    path: "/Aboutme",
   },
   {
     id: 4,
